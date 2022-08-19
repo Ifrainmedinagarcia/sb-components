@@ -48,8 +48,6 @@ Tertiary.args = {
 	color: "tertiary"
 }
 
-
-
 export const CustomFontColor = Template.bind({})
 
 CustomFontColor.args = {

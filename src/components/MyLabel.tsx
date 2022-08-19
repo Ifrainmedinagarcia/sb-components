@@ -27,10 +27,10 @@ export interface Props {
 	 
 }
 
-export const MyLabel = ({ 
+export const MyLabel = ({
 	allCaps= false,
 	color="primary",
-	label = "No Label", 
+	label = "No Label",
 	size = "normal", 
 	fontColor
 }: Props): JSX.Element => {

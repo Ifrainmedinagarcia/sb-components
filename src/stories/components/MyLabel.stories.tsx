@@ -2,7 +2,7 @@ import { MyLabel } from '../../components/MyLabel';
 import { ComponentMeta, ComponentStory } from '@storybook/react';
 
 export default {
-	title: "UI/MyLabel",
+	title: "UI/MyLabel-test",
 	component: MyLabel,
 	argTypes: {
 		size: {control: "select"},
